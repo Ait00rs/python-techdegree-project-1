@@ -1,2 +1,2 @@
-# python-techdegree-project-1
- Number Guessing Game
+# Python Techdegree Project 1
+# Number Guessing Game
